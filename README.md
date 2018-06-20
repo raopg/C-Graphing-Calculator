@@ -1,2 +1,3 @@
-# Cpp
-This repository contains all the C++ code I have  written.
+# c++ Graphing Calculator
+A simple graphing calculator that plots basic quadratic, linear and trigonometric functions.
+
